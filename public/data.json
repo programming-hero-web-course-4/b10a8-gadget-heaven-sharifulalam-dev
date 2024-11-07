@@ -1,0 +1,359 @@
+[
+  {
+    "product_id": "P001",
+    "product_title": "Apple iPhone 15 Pro Max",
+    "product_image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MT1U3?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1693006155924",
+    "category": "Smartphones",
+    "price": 1299,
+    "description": "Experience the ultimate smartphone with the iPhone 15 Pro Max.",
+    "specification": [
+      "6.7-inch Super Retina XDR display",
+      "A17 Bionic chip",
+      "Triple-camera system (48MP Main, 12MP Telephoto, 12MP Ultrawide)",
+      "LiDAR Scanner",
+      "Up to 2TB storage"
+    ],
+    "availability": true,
+    "rating": 4.1
+  },
+  {
+    "product_id": "P002",
+    "product_title": "Samsung Galaxy S23 Ultra",
+    "product_image": "https://res.cloudinary.com/mozillion/image/upload/f_auto,q_auto/v1690905534/jmc5aphwluqtpthltmcd.png",
+    "category": "Smartphones",
+    "price": 1199,
+    "description": "Capture stunning photos and videos with the Galaxy S23 Ultra.",
+    "specification": [
+      "6.8-inch Dynamic AMOLED 2X display",
+      "Snapdragon 8 Gen 2",
+      "200MP Quad-camera system",
+      "5,000mAh battery",
+      "Up to 1TB storage"
+    ],
+    "availability": true,
+    "rating": 3.7
+  },
+  {
+    "product_id": "P003",
+    "product_title": "Google Pixel 8 Pro",
+    "product_image": "https://i0.wp.com/kryinternational.com/wp-content/uploads/2024/02/Google-Pixel-8-Pro.jpg",
+    "category": "Smartphones",
+    "price": 999,
+    "description": "Experience Google's best camera and software in the Pixel 8 Pro.",
+    "specification": [
+      "6.7-inch LTPO OLED display",
+      "Google Tensor G3 chip",
+      "50MP triple-camera system",
+      "5,050mAh battery",
+      "Up to 512GB storage"
+    ],
+    "availability": true,
+    "rating": 2.6
+  },
+  {
+    "product_id": "P004",
+    "product_title": "Apple MacBook Air M2",
+    "product_image": "https://static1.pocketlintimages.com/wordpress/wp-content/uploads/wm/161396-laptops-review-hands-on-macbook-air-review-image1-v2jzcb3rqd.jpg",
+    "category": "Laptops",
+    "price": 1199,
+    "description": "Powerful performance in a thin and lightweight design with the MacBook Air M2.",
+    "specification": [
+      "13.6-inch Liquid Retina display",
+      "Apple M2 chip",
+      "Up to 24GB RAM",
+      "Up to 2TB SSD",
+      "18-hour battery life"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": "P005",
+    "product_title": "Dell XPS 13 Plus",
+    "product_image": "https://www.cnet.com/a/img/resize/fe55b50f314848687472e309f4bb326748a64c40/hub/2023/11/10/0215bc00-509a-4f40-a258-487d8a9cf0be/dell-xps-13-plus-lid.jpg?auto=webp&width=1200",
+    "category": "Laptops",
+    "price": 1299,
+    "description": "A sleek and powerful laptop for professionals and creatives.",
+    "specification": [
+      "13.4-inch FHD+ display",
+      "Intel Core i7-1260P",
+      "16GB RAM",
+      "512GB SSD",
+      "Intel Iris Xe Graphics"
+    ],
+    "availability": true,
+    "rating": 3.5
+  },
+  {
+    "product_id": "P006",
+    "product_title": "HP Spectre x360",
+    "product_image": "https://deprimesolutions.co.ke/wp-content/uploads/hp-spectre-14-ef2047nr-laptop-13th-Deprime-Solutions.webp",
+    "category": "Laptops",
+    "price": 1399,
+    "description": "Flexible and portable 2-in-1 laptop with stunning display quality.",
+    "specification": [
+      "13.5-inch OLED display",
+      "Intel Core i7-1255U",
+      "16GB RAM",
+      "1TB SSD",
+      "Intel Iris Xe Graphics"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "P007",
+    "product_title": "Apple AirPods Pro (2nd generation)",
+    "product_image": "https://www.gadgetstyler.com/wp-content/uploads/2023/11/MTJV3.jpg",
+    "category": "Accessories",
+    "price": 249,
+    "description": "Enjoy high-quality sound with active noise cancellation.",
+    "specification": [
+      "Active Noise Cancellation",
+      "Transparency Mode",
+      "Spatial audio with dynamic head tracking",
+      "MagSafe charging case",
+      "6 hours of listening time"
+    ],
+    "availability": true,
+    "rating": 1.8
+  },
+  {
+    "product_id": "P008",
+    "product_title": "Samsung Galaxy Buds Pro 2",
+    "product_image": "https://dailydeals365.in/wp-content/uploads/2023/05/samsung-buds-2-pro-black.webp",
+    "category": "Accessories",
+    "price": 199,
+    "description": "Premium sound quality and noise cancellation with Galaxy Buds Pro.",
+    "specification": [
+      "Active Noise Cancellation",
+      "8 hours of playtime",
+      "IPX7 water resistance",
+      "Ambient sound mode",
+      "Wireless charging case"
+    ],
+    "availability": true,
+    "rating": 2.6
+  },
+  {
+    "product_id": "P009",
+    "product_title": "Sony WH-1000XM5",
+    "product_image": "https://urbangadgets.ph/wp-content/uploads/Sony-WH-1000XM5-Wireless-Noise-Canceling-Headphones-Black-3.webp",
+    "category": "Accessories",
+    "price": 399,
+    "description": "Industry-leading noise cancellation and sound quality.",
+    "specification": [
+      "Adaptive noise cancellation",
+      "30-hour battery life",
+      "Touch sensor controls",
+      "High-Resolution Audio",
+      "Foldable design"
+    ],
+    "availability": true,
+    "rating": 1.9
+  },
+  {
+    "product_id": "P010",
+    "product_title": "Apple Watch Series 9",
+    "product_image": "https://executiveample.com/wp-content/uploads/2024/01/Apple-Watch-Series-9-45mm-Midnight-Aluminium-Case-with-Midnight-Sport-Band.webp",
+    "category": "Smart Watches",
+    "price": 429,
+    "description": "Advanced health and fitness tracking in Apple Watch Series 9.",
+    "specification": [
+      "Always-On Retina display",
+      "Blood Oxygen and ECG apps",
+      "Crash Detection",
+      "Up to 36 hours battery life",
+      "Water-resistant up to 50 meters"
+    ],
+    "availability": true,
+    "rating": 3.8
+  },
+  {
+    "product_id": "P011",
+    "product_title": "Samsung Galaxy Watch 6",
+    "product_image": "https://diamu.com.bd/wp-content/uploads/2023/08/Samsung-Galaxy-Watch-6-40mm-1.jpg",
+    "category": "Smart Watches",
+    "price": 399,
+    "description": "Track your health and fitness with the Galaxy Watch 6.",
+    "specification": [
+      "1.4-inch Super AMOLED display",
+      "ECG and blood pressure monitoring",
+      "5ATM water resistance",
+      "Up to 2 days battery life",
+      "Wear OS"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "P012",
+    "product_title": "Fitbit Sense 2",
+    "product_image": "https://diamu.com.bd/wp-content/uploads/2022/11/Fitbit-Sense-2-Advanced-Health-and-Fitness-Smartwatch-3.jpg",
+    "category": "Smart Watches",
+    "price": 299,
+    "description": "Monitor your health with Fitbit's advanced smartwatch.",
+    "specification": [
+      "EDA Stress Sensor",
+      "Heart rate and SpO2 tracking",
+      "Sleep score insights",
+      "Up to 6 days battery life",
+      "Built-in GPS"
+    ],
+    "availability": true,
+    "rating": 2.5
+  },
+  {
+    "product_id": "P013",
+    "product_title": "Apple MacBook Pro M2",
+    "product_image": "https://www.digitaltrends.com/wp-content/uploads/2023/02/macbook-pro-14-m2-max.jpg?p=1",
+    "category": "MacBooks",
+    "price": 1999,
+    "description": "Powerful and efficient performance with the M2 chip.",
+    "specification": [
+      "14.2-inch Liquid Retina XDR display",
+      "Apple M2 Pro chip",
+      "Up to 64GB RAM",
+      "Up to 8TB SSD",
+      "20-hour battery life"
+    ],
+    "availability": true,
+    "rating": 3.9
+  },
+  {
+    "product_id": "P014",
+    "product_title": "Apple MacBook Pro M1",
+    "product_image": "https://i0.wp.com/nasilemaktech.com/wp-content/uploads/2022/02/M1-Pro-Apple-MacBook-Pro-14-00024.jpg?fit=1920%2C1080&amp;ssl=1",
+    "category": "MacBooks",
+    "price": 1299,
+    "description": "Efficient power and long-lasting battery in the MacBook Pro M1.",
+    "specification": [
+      "13.3-inch Retina display",
+      "Apple M1 chip",
+      "8GB RAM",
+      "256GB SSD",
+      "Up to 20 hours battery life"
+    ],
+    "availability": true,
+    "rating": 2.7
+  },
+  {
+    "product_id": "P015",
+    "product_title": "Apple MacBook Air M1",
+    "product_image": "https://macfinder.co.uk/wp-content/uploads/2022/12/img-MacBook-Air-13-Inch-22502.jpg",
+    "category": "MacBooks",
+    "price": 999,
+    "description": "Lightweight and powerful performance with the M1 chip in the MacBook Air.",
+    "specification": [
+      "13.3-inch Retina display",
+      "Apple M1 chip",
+      "8GB RAM",
+      "256GB SSD",
+      "18-hour battery life"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "P016",
+    "product_title": "Apple iPhone 14 Pro",
+    "product_image": "https://www.callmobilegalaxy.com/wp-content/uploads/2022/11/Apple-iPhone-14-Pro-Mobile-Phone-493177782-i-1-1200Wx1200H.jpg",
+    "category": "iPhones",
+    "price": 1099,
+    "description": "Capture stunning photos with the iPhone 14 Pro's advanced camera system.",
+    "specification": [
+      "6.1-inch Super Retina XDR display",
+      "A16 Bionic chip",
+      "Triple-camera system (48MP Main, 12MP Telephoto, 12MP Ultrawide)",
+      "ProRAW and ProRes video",
+      "Up to 1TB storage"
+    ],
+    "availability": true,
+    "rating": 1.7
+  },
+  {
+    "product_id": "P017",
+    "product_title": "Apple iPhone 13",
+    "product_image": "https://shop.mobilesnap.ca/cdn/shop/products/apple-iphone-13-01_1024x1024.jpg?v=1723198646",
+    "category": "iPhones",
+    "price": 799,
+    "description": "Experience powerful performance with the iPhone 13.",
+    "specification": [
+      "6.1-inch Super Retina XDR display",
+      "A15 Bionic chip",
+      "Dual-camera system (12MP Main, 12MP Ultrawide)",
+      "Up to 512GB storage",
+      "Ceramic Shield"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "P018",
+    "product_title": "Apple iPhone SE (2022)",
+    "product_image": "https://www.digitaltrends.com/wp-content/uploads/2022/08/iPhone-SE-2022-Back.jpg?fit=3000%2C2000&p=1",
+    "category": "iPhones",
+    "price": 529,
+    "description": "Compact yet powerful, the iPhone SE delivers excellent performance.",
+    "specification": [
+      "4.7-inch Retina HD display",
+      "A15 Bionic chip",
+      "Single 12MP wide camera",
+      "Touch ID",
+      "Up to 256GB storage"
+    ],
+    "availability": true,
+    "rating": 3.4
+  },
+  {
+    "product_id": "P019",
+    "product_title": "Lenovo ThinkPad X1 Carbon Gen 10",
+    "product_image": "https://www.digitaltrends.com/wp-content/uploads/2022/07/lenovo-thinkpad-x1-carbon-gen-10-rear-view-e1658778795319.jpg?fit=720%2C720&p=1",
+    "category": "Laptops",
+    "price": 1799,
+    "description": "High-performance business laptop with robust security features.",
+    "specification": [
+      "14-inch WUXGA display",
+      "Intel Core i7-1260P",
+      "16GB RAM",
+      "512GB SSD",
+      "Intel Iris Xe Graphics"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "P020",
+    "product_title": "Microsoft Surface Laptop 5",
+    "product_image": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/laptop-5-01.jpg",
+    "category": "Laptops",
+    "price": 1499,
+    "description": "Portable and stylish laptop with impressive display and performance.",
+    "specification": [
+      "13.5-inch PixelSense touchscreen",
+      "Intel Core i7-1265U",
+      "16GB RAM",
+      "512GB SSD",
+      "Intel Iris Xe Graphics"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "P021",
+    "product_title": "ASUS ZenBook Duo 14",
+    "product_image": "https://computermania-bd.b-cdn.net/wp-content/uploads/Asus-Zenbook-Duo-14-3-1.jpg",
+    "category": "Laptops",
+    "price": 1599,
+    "description": "Dual-screen innovation for multitasking and productivity.",
+    "specification": [
+      "14-inch FHD NanoEdge display",
+      "Intel Core i7-12700H",
+      "16GB RAM",
+      "1TB SSD",
+      "Intel Iris Xe Graphics"
+    ],
+    "availability": true,
+    "rating": 2.7
+  }
+]
